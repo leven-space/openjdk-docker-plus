@@ -15,4 +15,3 @@ Expand based on Dokcer's official OpenJdk, and add some common commands and usef
 | Name | Version | Install Path |
 | -------------------- |--------:|--------:|
 | `Arthars`       |    3.5.0 | /usr/local/arthas/
-
