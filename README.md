@@ -8,6 +8,13 @@ Expand based on Dokcer's official OpenJdk, and add some common commands and usef
 
 - telnet
 - vim
+- tcpdump
+- netcat 
+- htop
+- less
+- curl
+- wget
+- traceroute
 
 
 ## Support Components
