@@ -15,6 +15,7 @@ Expand based on Dokcer's official OpenJdk, and add some common commands and usef
 - curl
 - wget
 - traceroute
+- jq
 
 
 ## Support Components
