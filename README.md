@@ -22,5 +22,7 @@ Expand based on Dokcer's official OpenJdk, and add some common commands and usef
 
 | Name | Version | Install Path |
 | -------------------- |--------:|--------:|
-| `Arthars`       |    3.5.0 | /usr/local/arthas/
+| `Arthars`       |    3.5.3 | /usr/local/arthas/
 | `elastic-apm-agent`       |    1.23.0/ | /usr/local/elastic-apm/
+| `Alibaba ARMS SZ`       |    1.23.0/ | /usr/local/arms/shenzhen/
+| `skywalking`       |    1.23.0/ | /usr/local/skywalking/
