@@ -12,7 +12,7 @@ RUN set -eux; \
 
 RUN set -eux; \
     wget http://arms-apm-shenzhen.oss-cn-shenzhen.aliyuncs.com/ArmsAgent.zip -O /usr/local/arms/shenzhen/ArmsAgent.zip;\
-    wget https://mirror-hk.koddos.net/apache/skywalking/8.7.0/apache-skywalking-apm-8.7.0.tar.gz -O /usr/local/skywalking/apache-skywalking-apm.tar.gz;
+    wget https://dlcdn.apache.org/skywalking/8.8.1/apache-skywalking-apm-8.8.1.tar.gz -O /usr/local/skywalking/apache-skywalking-apm.tar.gz;
 
 
 RUN set -eux; \  
