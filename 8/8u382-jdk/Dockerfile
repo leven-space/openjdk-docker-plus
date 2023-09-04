@@ -1,4 +1,4 @@
-FROM openjdk:8u302-jdk
+FROM eclipse-temurin:8-jdk-jammy
 
 RUN mkdir /usr/local/arthas /usr/local/elastic-apm /usr/local/arms /usr/local/arms/shenzhen/ /usr/local/skywalking
 # add telnet vim command
